@@ -44,7 +44,9 @@ ________________________________________________________________________________
 
 **Algorithm**
 
-**Initialize Timer**: Start a timer that counts up to 100 seconds.
+**Initialize Timer**: 
+
+Start a timer that counts up to 100 seconds.
 
 **Countdown Phase**:
 
@@ -62,7 +64,10 @@ Rock beats Scissors
 Scissors beats Paper
 Paper beats Rock
 Determine the winner based on the rules above and display the result.
-**End Game**: The game concludes after announcing the winner, and the timer can reset for a new game if desired.
+
+**End Game**: 
+
+The game concludes after announcing the winner, and the timer can reset for a new game if desired.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Dependencies**
