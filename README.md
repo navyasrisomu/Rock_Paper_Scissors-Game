@@ -44,13 +44,25 @@ ________________________________________________________________________________
 
 **Algorithm**
 
-The computer will choose a random choice between "Rock", "Paper" and "Scissor". Logic - = We will generate a random number between 1 - 100; if the number is in between = less than 33 --> Computer will choose Rock = 33 - 66 --> Computer will choose Paper = greater than 66 --> Computer will choose Scissor
+**Initialize Timer**: Start a timer that counts up to 100 seconds.
 
-User Input will be taken.
+**Countdown Phase**:
 
-Input will be compared with computers choice.
+If the timer is less than 20 seconds: Display "Ready!"
+If the timer is less than 30 seconds: Display "Count: 3"
+If the timer is less than 40 seconds: Display "Count: 2"
+If the timer is less than 50 seconds: Display "Count: 1"
+If the timer is less than 60 seconds: Display "GO!"
+Start the Game: When the timer reaches 60 seconds, both players make their choices (rock, paper, or scissors).
 
-According to rules, one of them will win.
+**Evaluate Winner**:
+
+If the timer is less than 100 seconds, check the players' choices:
+Rock beats Scissors
+Scissors beats Paper
+Paper beats Rock
+Determine the winner based on the rules above and display the result.
+**End Game**: The game concludes after announcing the winner, and the timer can reset for a new game if desired.
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Dependencies**
