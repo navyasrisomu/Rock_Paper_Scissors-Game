@@ -2,7 +2,7 @@
 
 **Description** : 
 
-Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This Python Program Project is aimed at automating one of the player called as Computerized Player and the taking rock, paper or scissor as an input from the used.
+Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors". This Python Program Project is aimed at automating one of the player called as Player 1 and the other as Player 2 taking rock, paper or scissor as an input from the used.
 
 **Introduction**
 
